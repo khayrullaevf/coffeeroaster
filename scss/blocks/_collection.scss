@@ -1,7 +1,9 @@
-.collection {
+.collection{
   width: 100%;
   padding-top: 123px;
-
+  background-image: url('../../imgs/collection-background.svg');
+  background-position: 87px 125px;
+  background-repeat: no-repeat;
 }
 .collection-cards {
   padding-left: 87px;
